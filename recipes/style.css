@@ -1,6 +1,14 @@
 h1{
 
-color: rgb(0, 113, 128);
+    font-family:"Times New Roman";
+
+    font-size: 30px;
+
+    color: rgb(0, 113, 128);
+
+    font-weight: 800;
+
+    text-align:center;
 
 
 }
