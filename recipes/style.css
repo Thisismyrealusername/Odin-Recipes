@@ -1,3 +1,7 @@
+*{
+
+}
+
 h1{
 
     font-family:monospace;
@@ -25,9 +29,21 @@ li{
     color: red;
 
 }
+.faisals-base,.ahmads-base{
 
-.base{
+    font-family: monospace;
+
+}
+.faisals-base{
 
     color: blue;
 
+}
+.ahmads-base{
+
+    color : darkred;
+
+}
+#faisals-coloring{
+    color : red;
 }
